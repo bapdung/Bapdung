@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=hotpink&height=300&section=header&text=SeoJiHeun&fontSize=90&animation=fadeIn&fontAlignY=38&desc=사용자와%20함께%20할%20개발자&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SeoJiHeun&fontSize=90&animation=fadeIn&fontAlignY=38&desc=사용자와%20함께%20할%20개발자&descAlignY=51&descAlign=62)
 
 <br> 
 
