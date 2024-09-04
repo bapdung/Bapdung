@@ -1,20 +1,24 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=hotpink&height=300&section=header&text=SeoJiHeun&fontSize=90&animation=fadeIn&fontAlignY=38&desc=사용자와%20함께%20할%20개발자&descAlignY=51&descAlign=62)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=JiheunSeo)](https://solved.ac/JiheunSeo)<br/>
+<br> 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgms0908)](https://solved.ac/wlgms0908/)
+<p align="center">
+<Strong>Info</Strong><br>
+📧wlgmsaudqls@naver.com<br>
+📞010-2876-3816<br>
+</p>
 
-<!--
-**JiheunSeo/JiheunSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
 
-Here are some ideas to get you started:
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgms0908)](https://solved.ac/profile/wlgms0908) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiheunSeo&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiheunSeo&hide=contribs,prs&show_icons=true&theme=테마)
+
+
+<p align="center">
+    <Strong>⚒️Tech Stack⚒️</Strong><br>
+</p>
+
+<br>
