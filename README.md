@@ -12,8 +12,7 @@
 
 🐹 **Birth Date**: 2001.09.08  
 🎓 **Education**: 서울과학기술대학교, 산업정보시스템 전공 (2020.03 - 2024.02)  
-📧 **Email**: wlgmsaudqls@naver.com  
-📞 **Phone**: 010-2876-3816  
+📧 **Email**: wlgmsaudqls@naver.com 
 
 ## 🛠️ Experience
 
