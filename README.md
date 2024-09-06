@@ -1,4 +1,4 @@
-<h1 align="center"><strong style="color: #00FF00; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00;">사용자👩‍💼와 함께하는 개발자💻 서지흔입니다.</strong></h1>
+<h1 align="center"><strong style="color: #00FF00; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00;">사용자👩‍💼와 함께하는 개발자💻입니다.</strong></h1>
 <p align="center">
   <img src="https://velog.velcdn.com/images/bapdung/post/8bb1a561-4ca9-4080-8cb5-54b8ddfae469/image.png" alt="header image" width="100px">
 </p>
@@ -10,8 +10,6 @@
 <a href="https://velog.io/@bapdung/posts"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
 <a href="https://blog.naver.com/bapdung"><img src="https://img.shields.io/badge/Daily%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
 
-🐹 **Birth Date**: 2001.09.08  
-🎓 **Education**: 서울과학기술대학교, 산업정보시스템 전공 (2020.03 - 2024.02)  
 📧 **Email**: wlgmsaudqls@naver.com 
 
 ## 🛠️ Experience
@@ -27,10 +25,6 @@
 - **한국여성과학기술인육성재단**  
   2022.04 - 2022.10  
   2022년 여대학원생 공학연구팀제 지원사업(심화과정)
-
-- **학생회 홍보부장**  
-  2020.03 - 2021.11  
-  서울과학기술대학교 산업정보시스템전공 학생회 홍보부장
 
 ## 🏅 Awards
 
