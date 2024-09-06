@@ -52,6 +52,7 @@
 ---
 
 ## ⚒️ Tech Stack
+#### Backend
 <div align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
@@ -88,6 +89,11 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 </div>
 
+---
+<h2 align="center">⭐ Solved.ac Profile</h2>
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgms0908" alt="Solved.ac Profile" />
+</p>
 ---
 
 <h2 align="center">📊 GitHub Stats & Contributions</h2>
