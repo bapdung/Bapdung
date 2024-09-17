@@ -19,26 +19,24 @@
   2024.01 - now
   SSAFYcial 11기
 
-- **한국여성과학기술인육성재단**  
+- **한국과학기술인육성재단**  
   2022.04 - 2022.10  
-  2022년 여대학원생 공학연구팀제 지원사업(심화과정)
+  2022년 공학연구팀제 지원사업(심화과정)
 
 ## 🏅 Awards
 
-- **우수상** (2024.09) - 신한은행 해커톤: 가계쀼 프로젝트 (신혼부부 자산 관리 앱)
+- **우수상** (2024.09) - 신한은행 해커톤: 가계쀼 (신혼부부 자산 관리 앱)
 - **우수상** (2024.08) - SSAFY 공통 프로젝트: HiFive (크리에이터 팬미팅 플랫폼)
 - **장려상** (2023.12) - 캡스톤 디자인: 부산 공공 자전거 대여소 우선 입지 선정
 
 ## 📜 Certifications
+- **TOEIC 845** (2023.09)  
+- **OPIc IH** (2024.01)  
 - **정보처리기사** (2023.06)  
 - **SQLD** (2023.11)  
 - **ADsP** (2023.10)  
 - **컴퓨터활용능력 1급** (2022.12)  
 - **한국사능력검정시험 1급** (2023.08)
-- **TOEIC 845** (2023.09)  
-- **OPIc IH** (2024.01)  
-
----
 
 ## ⚒️ Tech Stack
 <div align="center">
@@ -76,10 +74,7 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 </div>
 
-
----
-
-<h2 align="center">📊 GitHub Stats & Algorithm</h2>
+<h2 align="left">📊 GitHub Stats & Algorithm</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bapdung&show_icons=true&theme=radical" alt="GitHub Stats" />
