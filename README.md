@@ -30,15 +30,16 @@
 - **장려상** (2023.12) - 캡스톤 디자인: 부산 공공 자전거 대여소 우선 입지 선정
 
 ## 📜 Certifications
-- **TOEIC 845** (2023.09)  
-- **OPIc IH** (2024.01)  
-- **정보처리기사** (2023.06)  
-- **SQLD** (2023.11)  
-- **ADsP** (2023.10)  
-- **컴퓨터활용능력 1급** (2022.12)  
+
+- **OPIc IH** (2024.01)
+- **정보처리기사** (2023.06)
+- **SQLD** (2023.11)
+- **ADsP** (2023.10)
+- **컴퓨터활용능력 1급** (2022.12)
 - **한국사능력검정시험 1급** (2023.08)
 
 ## ⚒️ Tech Stack
+
 <div align="center">
   <b>Backend</b><br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
